@@ -3,10 +3,11 @@
   <groupId>name.yalsooni</groupId>
   <artifactId>boot-helper</artifactId>
   <versioning>
-    <release>1.0</release>
+    <release>1.0.1</release>
     <versions>
       <version>1.0</version>
+      <version>1.0.1</version>
     </versions>
-    <lastUpdated>20200217153450</lastUpdated>
+    <lastUpdated>20200218065251</lastUpdated>
   </versioning>
 </metadata>
